@@ -3,9 +3,11 @@
 ## Project installation
 ### Create a new venv environment and activate it.
 python3 -m venv mrf-env
+
 source mf-env/bin/activate
 ### Install the neccessary requirements.
 pip install --upgrade pip
+
 pip install -r requirements.txt 
 
 
